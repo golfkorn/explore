@@ -1,4 +1,4 @@
----
+thanks---
 items:
  - marko-js/marko
  - mithriljs/mithril.js
